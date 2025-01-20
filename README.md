@@ -1,4 +1,4 @@
-# iOS Architecture Templates (VIPER, MVVM-R, & MVVM-IR)
+# iOS Architecture Templates (VIPER & MVVM-IR)
 
 This repository contains custom Xcode templates for quickly scaffolding iOS modules following the **VIPER**, and **MVVM-IR** architectural patterns. These templates streamline development by generating pre-configured files, promoting clean architecture, and saving time when setting up new modules.
 
