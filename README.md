@@ -22,7 +22,7 @@ This repository contains custom Xcode templates for quickly scaffolding iOS modu
 
 1. Clone or download this repository.
 2. Copy the `VIPER_UIKit`, `MVVMR_SwiftUI`, and `MVVMIR_SwiftUI` folders to the following directory:
-`~/Library/Developer/Xcode/Templates/File Templates/`
+`~/Library/Developer/Xcode/Templates/`
 3. If the `File Templates` directory doesn’t exist, create it manually.
 
 ## Usage
