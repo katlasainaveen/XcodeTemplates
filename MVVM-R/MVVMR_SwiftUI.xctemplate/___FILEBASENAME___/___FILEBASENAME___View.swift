@@ -2,8 +2,8 @@
 
 import SwiftUI
 
-struct ___VARIABLE_productName:identifier___View<ViewModel: ___VARIABLE_productName:identifier___ViewModelProtocol & ObservableObject>: View {
-    @ObservedObject var viewModel: ViewModel
+struct ___VARIABLE_productName:identifier___View: View {
+    @ObservedObject var viewModel: ___VARIABLE_productName:identifier___ViewModel
     
     var body: some View {
         VStack {
